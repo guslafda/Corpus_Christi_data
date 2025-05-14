@@ -8,3 +8,7 @@ The data is a compilation of nouns and adjectives which have possibly undergone 
 For more information about how the data was compiled and a more detailed analysis, refer to:
 
 Lafage, D. (2025). *Corpus Christi. En diakron korpuslingvistisk studie av kristendomens påverkan på latinsk semantik.* Göteborgs Universitet.
+
+For information about the original LatinBERT model, visit:
+
+https://github.com/dbamman/latin-bert
