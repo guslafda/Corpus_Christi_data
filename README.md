@@ -4,6 +4,7 @@ In this repository, I am publishing data generated with the BERT model XPL, whic
 kindly made available to me by Philip Roelli at the University of Zürich (https://mlat.uzh.ch/browser?path=/38).
 
 The data is a compilation of nouns and adjectives which have possibly undergone a semantic shift under the effect of Christianity. Note that some of them are false-positive, hence these word lists need to be verified in a qualitative analysis.
+Also included are two metadata files, where the document_ids belonging to the documents included in the *Patrologia Latina* and *Latinitas Antiqua* corpora can be searched for.
 
 For more information about how the data was compiled and a more detailed analysis, refer to:
 
