@@ -8,7 +8,7 @@ Also included are two metadata files, where the document_ids belonging to the do
 
 For more information about how the data was compiled and a more detailed analysis, refer to:
 
-Lafage, D. (2025). *Corpus Christi. En diakron korpuslingvistisk studie av kristendomens påverkan på latinsk semantik.* Göteborgs Universitet.
+Lafage, D. (2025). *Corpus Christi. En korpuslingvistisk studie av latinets semantiska utveckling i kristendomens spår.* Göteborgs Universitet.
 
 XPL can be accessed here:
 
